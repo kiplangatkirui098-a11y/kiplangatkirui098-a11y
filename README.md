@@ -1,9 +1,4 @@
 
-
-Kiplangat kirui |Python Developer | Automation & AI Tools
-
-Building practical tools that solve actual problems. Based in Eldoret, Kenya.
-
 What I Build    
 
 .Data pipelines and automation scripts in Python
